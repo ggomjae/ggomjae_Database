@@ -10,7 +10,7 @@ GGOMJAE
 계획
 -------
 * 데이터베이스 기술 모음 저장소 [ 개발블로그에 링크 및 README에 정리를 할 계획 ]
-* 공부하는 책 목록 : real mysql, 친절한 sql 튜닝, MySQL 퍼포먼스 최적화, SQL 초딩의 기술
+* 공부하는 책 목록 : real mysql, 친절한 sql 튜닝, MySQL 퍼포먼스 최적화, SQL 코딩의 기술
 -------
 
 
