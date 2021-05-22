@@ -22,6 +22,8 @@ GGOMJAE
 * [2021-04-10] Cluster Index vs Non-Cluster Index 이론 및 성능 비교 ( JPA + MYSQL ) [BLOG에 정리한 부분](https://velog.io/@ggomjae/Cluster-Index-vs-Non-Cluster-Index-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EB%B0%8F-%EC%9D%B4%EB%A1%A0)
 * [2021-05-18] MySQL의 데이터 흐름 및 특징 - 답이 아닌 책을 읽으면서 나의 머리에 있는 흐름을 정리한 글 [BLOG에 정리한 부분](https://velog.io/@ggomjae/MySQL%EC%9D%98-%ED%8A%B9%EC%A7%95)
 * [2021-05-20] 쿼리 성능 진단은 최적화의 기초 [BLOG에 정리한 부분](https://velog.io/@ggomjae/%EC%BF%BC%EB%A6%AC-%EC%84%B1%EB%8A%A5-%EC%A7%84%EB%8B%A8%EC%9D%80-%EC%B5%9C%EC%A0%81%ED%99%94%EC%9D%98-%EA%B8%B0%EC%B4%88)
+* [2021-05-22] where 조건 이해 [BLOG에 정리한 부분](https://velog.io/@ggomjae/Where-%EC%A1%B0%EA%B1%B4-%EC%9D%B4%ED%95%B4)
+
 #### naver 
 * [2021-01-17] FK로 인해 삭제가 되지 않을 때 [BLOG에 정리한 부분](https://blog.naver.com/ggomjae/222210143484)
 * [2021-03-12] 날짜 더미데이터 및 쿼리 [BLOG에 정리한 부분](https://blog.naver.com/ggomjae/222272961474)
